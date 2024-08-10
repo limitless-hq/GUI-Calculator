@@ -1,3 +1,4 @@
 # GUI-Calculator
-Project where I use tkinter to learn Python by building a GUI calculator
-NOTE: i suck at python, and new to tkinter so chill
+Project where I use tkinter to improve my Python skills by building a calculator with a GUI
+
+NOTE: look at me i actually finished a project
